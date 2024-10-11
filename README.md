@@ -1,1 +1,2 @@
-This project is a personal portfolio website designed to introduce Agha Faseeh, a Civil Engineering student and aspiring Front-End Developer. The site showcases key sections such as Skills, Education, Experience, and Contact, with integrated social media links and a downloadable resume. It features smooth animations, responsive design, and a clean, modern interface to create an engaging user experience
+Mars Exploration Website:
+A simple landing page concept focused on Mars exploration, featuring animated visuals, including a rotating Mars image and a dynamic space background. The site presents information about human exploration of Mars, interesting facts, and a navigation menu to explore other sections.
